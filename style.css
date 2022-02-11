@@ -108,11 +108,11 @@ body{
 	}
 
 	.content{
-		margin-top: 50px;
+		margin-top: 70px;
 	}
 
 	.congrats, .sign{
-		font-size: 16px;
+		font-size: 15px;
 		/*width: 400px;*/
 		line-height: 22px;
 	}
