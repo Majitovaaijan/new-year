@@ -100,7 +100,7 @@ body{
 
 	.music{
 		top: 60px;
-		left: 90%;
+		left: 85%;
 	}
 	.title{
 		font-size: 52px;
@@ -115,7 +115,6 @@ body{
 
 	.congrats, .sign{
 		font-size: 16px;
-		/*width: 400px;*/
 		line-height: 22px;
 	}
 
